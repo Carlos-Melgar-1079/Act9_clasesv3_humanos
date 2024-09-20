@@ -2,7 +2,8 @@
 usando clase con contexto de humanos
 
 #codigo
-![image](https://github.com/user-attachments/assets/57b87bcd-895e-44ab-8bc1-c6db54d23be6)
+![image](https://github.com/user-attachments/assets/127f98ea-e963-47c5-9016-e2c3cf1ae16a)
+
 
 ![image](https://github.com/user-attachments/assets/6f323f83-55a1-4379-bab4-4607519108de)
 
